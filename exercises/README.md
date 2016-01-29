@@ -4,13 +4,15 @@ The following code exercises are available for the PHP track. You are encouraged
 
 - Introductory Exercise
     - ["Hello, Code Louisville!"](https://github.com/CodeLouisville/php-exercise-hello-code-louisville)
-- Week 1 Exercises
+- Basic Exercises
     - [Data Types in PHP](https://github.com/CodeLouisville/php-exercise-data-types)
     - [String Search](https://github.com/CodeLouisville/php-exercise-string-search)
     - [Date Formatter](https://github.com/CodeLouisville/php-exercise-date-formatter)
     - [Odd Numbers](https://github.com/CodeLouisville/php-exercise-odd-numbers)
     - [Array Histogram](https://github.com/CodeLouisville/php-exercise-array-histogram)
     - [`array_keys()`++](https://github.com/CodeLouisville/php-exercise-array-search-keys)
+- Object Oriented Exercises
+    - [PHP OOP](https://github.com/CodeLouisville/php-exercise-oop)
 
 To perform a code exercise, [fork](https://help.github.com/articles/fork-a-repo/) one of the repositories above. Follow the exercise `README.md` and make your code changes in the `src/` directory.
 
