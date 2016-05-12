@@ -20,7 +20,7 @@ When you are done, commit and push your changes to your fork and [create a pull 
 
 If your solution passes, the build will be marked successful and the pull request will be ready to merge.
 
-If your solution fails, the build will be marked as failing and the pull request can no be merged. You should receive an email with more information about the failure. Make your changes. Once you commit them, the pull request will automatically be updated and the tests will rerun.
+If your solution fails, the build will be marked as failing and the pull request can not be merged. You should receive an email with more information about the failure. Make your changes. Once you commit them, the pull request will automatically be updated and the tests will rerun.
 
 If you would like to run the tests locally before creating a pull request, you can do so by running the following commands within the project:
 
